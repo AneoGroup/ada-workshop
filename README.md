@@ -15,6 +15,15 @@ Best of luck
 Here are links to the presentations from the workshop:
 - [Link to presentation in the beginning](presentations/2023-10-26-Ada-bedriftsbesøk.pdf)
 
+## Career opportunity
+
+- [Summer internship](https://201607.webcruiter.no/main/recruit/public/4714670008?&language=nb&use_position_site_header=0&culture_id=NB-NO&url_org=4539348174): Deadline 12th of November
+- [Trainee](https://www.aneogroup.com/no/jobb-hos-oss/trainee/): Comming soon!
+
+If you have any questions don't hesitate to contact us! Some emails:
+
+- Ella-Lovise H. Rørvik : ella-lovise.rorvik@aneo.com
+
 ## Future reading material:
 
 If you want more knowledge about the topics of this workshop, we have some more reading materials:
