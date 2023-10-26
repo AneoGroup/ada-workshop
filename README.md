@@ -14,12 +14,12 @@ Best of luck
 
 If you want more knowledge about the topics of this workshop, we have some more reading materials:
 
-Forecasting:
+###Forecasting:
 - Forecasting: Principles and Practice, https://otexts.com/fpp3/./.
 - Statistical forecasting, http://people.duke.edu/~rnau/411home.htm.
 - STAT 510, https://online.stat.psu.edu/stat510/.
 
-Optimization
+###Optimization
 :
 - 
 
