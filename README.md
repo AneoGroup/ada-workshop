@@ -6,7 +6,7 @@ The objective of this workshop is to develop a control system that reduces the e
 
 The notebooks used in this workshop can be found:
 -  [Link to problem](https://colab.research.google.com/drive/1nIT--awz2Lv4SqcEED8YG-VYawhoawX_?usp=sharing)
-- [Link to suggested solutoin](https://colab.research.google.com/drive/1EtCnteKLO3Rj0FRVqBHI7iwbci0-Bb4I?usp=sharing)
+- [Link to suggested solution](https://colab.research.google.com/drive/1EtCnteKLO3Rj0FRVqBHI7iwbci0-Bb4I?usp=sharing)
 
 Best of luck
 
